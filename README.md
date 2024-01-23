@@ -15,6 +15,14 @@ Diagrama é importante para fazer um trazer facilidade compreensão da entrutura
 Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
 
 ### Código SQL
+##### demonstração da criação da tabela de cliente
+create table clientes(
+cliente_id int primary key not null auto_increment,
+nome varchar(255) not null,
+cpf varchar(14) not null,
+data_nascimento date not null,
+sexo varchar(12) not null);
+
 #### Código criação das tabelas SQL
 [aberte aqui](https://github.com/guilhermeventepanis/lojas/blame/main/tabelas%20criando.sql)
 
