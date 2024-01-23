@@ -18,8 +18,9 @@ Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados
 #### Código criação das tabelas SQL
 [aberte aqui](https://github.com/guilhermeventepanis/lojas/blame/main/tabelas%20criando.sql)
 
+#### Código SQL inserção de alguns dados teste
+[aberte aqui](https://github.com/guilhermeventepanis/lojas/blame/main/inclus%C3%A3o%20de%20alguns%20nomes.sql)
 
-** Código SQL inserção de alguns dados teste**
 ** averiguação dos dados**
 
 
