@@ -10,15 +10,14 @@ de progrmação como o Java e C++.
 ## Diagrama ##
 Diagrama é importante para fazer um trazer facilidade compreensão da entrutura do banco de dados da loja de artesanato antes da criação do banco de dados, seria uma representação graficas de toda a loja sendo representado como entidade (a palavra mais importante podendo ser o sala de aula), atributo (parte ligada a entidade podendo ser aluno, professor, etc.) e relacionamento (que liga duas entidade), entre outras.
 
-![Diagrama da loja](https://Diagrama loja artesanais 2-1-diagrama l. artesanato.jpg)
-
-
 
 ## Modelo Físico do Bando de Dados ##
 Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
-### Código SQL ###
 
-**Código SQL na criação das tabelas **
+### Código SQL ###
+#### Código SQL na criação das tabelas 
+
+
 ** Código SQL inserção de alguns dados teste**
 ** averiguação dos dados**
 
