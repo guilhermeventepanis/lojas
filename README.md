@@ -14,8 +14,9 @@ Diagrama é importante para fazer um trazer facilidade compreensão da entrutura
 ## Modelo Físico do Bando de Dados ##
 Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
 
-### Código SQL ###
-#### Código SQL na criação das tabelas 
+#### Código SQL
+###### Código criação das tabelas SQL
+[aberte aqui](https://github.com/guilhermeventepanis/lojas/blame/main/tabelas%20criando.sql)
 
 
 ** Código SQL inserção de alguns dados teste**
