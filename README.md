@@ -71,4 +71,7 @@ Podendo utilizar restrições para falso CPF (nesse caso não criei por motivo d
 [Código do python](https://github.com/guilhermeventepanis/lojas/blame/main/python%20informacao_bd%20p2.py)
 
 
-#### falta a conclução
+#### Conclusão do Projeto do Banco de dados da Loja artesanatos
+Esse projeto banco de dados me mostrou que tendo um bom banco de dados à porcentagem aumenta de melhorar ou dar certo a empresa, mais também podendo coletar boas informações pode ser útil no futuro como saber qual produto vende mais e qual vende menos, quais vendedores não vendem e qual mais vende, podendo ver qual é a receita final, com todas as vendas – compras, qual produto realmente precisa comprar, etc.
+Agradeço ao auxilio do meu professor que dedicou a me ensinar o máximo possível, meus colegas que auxiliou e corrigiu quando precisei e o SENAI que trouxe um bom ambiente, profissionais excelentes e uma boa estrutura.
+Estou muito feliz principalmente em conhecer essa área, conhecer novos programas  como o MYSQL, aprender mais de Python e a ferramenta Draw IO, quero continuar dedicando a aprendendo como também ser um profissional melhor e levar meu conhecimento para a futura empresa.
