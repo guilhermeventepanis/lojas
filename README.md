@@ -1,5 +1,15 @@
 #  Loja Artesanais #
 Lojas de Artesanais é uma loja que tem produto feito a mão (trabalho manual, não industrializado).
+
+## ÍNDECE
+1. Banco de Dados
+2. Diagrama
+3. Modelagem de Relacionamento Logico
+4. Modelagem de Relacionamento Normalizado
+5. Código SQL
+6. Código Python
+7. Conclusão do Projeto do Banco de dados da Loja artesanatos
+
 #### **Banco de Dados** ####
 Criamos um Banco de Dados para a loja de artesanatos para ajudar no gerenciamento sendo mais preciso ágil e ter uma estrutura de informação organizada, como também ter mais informações sobre o estoque (sendo à saída de produtos e chegada), como o preço do produto ou matéria que entra na loja (compra) e depois a saída do produto (venda), entre outras ajudas.
 
@@ -26,6 +36,7 @@ Reflete ao banco de dados otimizado, livre de redundâncias e dependência trans
 </div>
 
 ### Código SQL
+O programa Mysql tem como principio o gerenciamento do banco de dados, mexendo com o Banco de dados na pratica, organizando e armazenando. 
 ##### demonstração da criação da tabela de cliente
 create table clientes(
 cliente_id int primary key not null auto_increment,
