@@ -6,8 +6,16 @@ Criamos um Banco de Dados para a loja de artesanatos para ajudar no gerenciament
 ## Diagrama ##
 Diagrama é importante para fazer um trazer facilidade compreensão da entrutura do banco de dados da loja de artesanato antes da criação do banco de dados, seria uma representação graficas de toda a loja sendo representado como entidade (a palavra mais importante podendo ser o sala de aula), atributo (parte ligada a entidade podendo ser aluno, professor, etc.) e relacionamento (que liga duas entidade), entre outras.
 
+<div align="center">
+<img src="https://github.com/guilhermeventepanis/lojas/blob/main/Diagrama%20loja%20artesanais%20final-diagrama%20l.%20artesanato.jpg"width ="550px" />
+</div>
+
 ## Modelo Físico do Bando de Dados ##
 Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
+
+<div align="center">
+<img src="https://github.com/guilhermeventepanis/lojas/blob/main/Diagrama%20loja%20artesanais%20final-diagrama%20l.%20artesanato.jpg"width ="550px" />
+</div>
 
 ### Código SQL
 ##### demonstração da criação da tabela de cliente
