@@ -18,7 +18,7 @@ Diagrama é importante para fazer um trazer facilidade compreensão da entrutura
 
 # modelagem de ralacionamento 2.0
 <div align="center">
-<img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%201%20loja%20artesanais%202-1-relacionamento%20modelagem%20(1).jpg"width ="500px" />
+<img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%20part%202%20loja%20artesanais%202.jpg"width ="500px" />
 </div>
 
 ## Modelo Físico do Bando de Dados ##
