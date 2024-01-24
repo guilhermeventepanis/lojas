@@ -11,18 +11,17 @@ Diagrama é importante para fazer um trazer facilidade compreensão da entrutura
 </div>
 
 
-# modelagem de relacionamento
+### Modelagem de Relacionamento Logico
+modelagem de relacionamento Logico servir para a aplicação de um sistema da empresa, fazendo um mapa mais tecnico da empresa com regras. 
 <div align="center">
 <img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%201%20loja%20artesanais%202-1-relacionamento%20modelagem%20(1).jpg"width ="500px" />
 </div>
 
-# modelagem de ralacionamento 2.0
+# Modelagem de Relacionamento Normalizado
+reflete ao banco de dados otimizado, livre de redundâncias e dependencia  transitiva, preservandoa integridade referencial, garantindo a eficiencia, atendendo as demandas especificadas.
 <div align="center">
 <img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%20part%202%20loja%20artesanais%202.jpg"width ="500px" />
 </div>
-
-## Modelo Físico do Bando de Dados ##
-Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
 
 ### Código SQL
 ##### demonstração da criação da tabela de cliente
@@ -70,3 +69,4 @@ podendo utilizar restrições para falso CPF(nesse caso não criei por motivo de
 [Código do python](https://github.com/guilhermeventepanis/lojas/blame/main/python%20informacao_bd%20p2.py)
 
 
+#### falta a conclução
