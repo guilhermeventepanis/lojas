@@ -10,12 +10,19 @@ Diagrama é importante para fazer um trazer facilidade compreensão da entrutura
 <img src="https://github.com/guilhermeventepanis/lojas/blob/main/Diagrama%20loja%20artesanais%20final-diagrama%20l.%20artesanato.jpg"width ="550px" />
 </div>
 
+
+# modelagem de relacionamento
+<div align="center">
+<img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%201%20loja%20artesanais%202-1-relacionamento%20modelagem%20(1).jpg"width ="500px" />
+</div>
+
+# modelagem de ralacionamento 2.0
+<div align="center">
+<img src="https://github.com/guilhermeventepanis/lojas/blob/main/modelagem%20de%20relacionamento%201%20loja%20artesanais%202-1-relacionamento%20modelagem%20(1).jpg"width ="500px" />
+</div>
+
 ## Modelo Físico do Bando de Dados ##
 Iremos usar o progrma MySQL fazendo a criação das tabelas, inserção de dados e consultas das tabelas do banco de dados, sendo gerenciado os dados obitidos, lembrando que é uma linguagem de programação voltada tambem ao banco de dados.
-
-<div align="center">
-<img src="https://github.com/guilhermeventepanis/lojas/blob/main/Diagrama%20loja%20artesanais%20final-diagrama%20l.%20artesanato.jpg"width ="550px" />
-</div>
 
 ### Código SQL
 ##### demonstração da criação da tabela de cliente
